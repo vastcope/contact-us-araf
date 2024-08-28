@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url(./OIP.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.c1 {
+    position: relative;
+}
+
+.c1 p {
+    position: absolute;
+    left: 28%;
+    top: 30%;
+}
+
+.c1 img {
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin-top: 100px;
+}
+
+.c2 {
+    position: absolute;
+    left: 55%;
+    top: 30%;
+}
+
+.n11 {
+    height: 40px;
+    width: 100px;
+    margin-top: 30px;
+    color: rgb(104, 74, 173);
+}
